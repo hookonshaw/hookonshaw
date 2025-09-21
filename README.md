@@ -8,7 +8,7 @@ I'm a beginner programmer and a student at the Moscow Aviation Institute (MAI)ðŸ
 Beyond my academic studies, I am passionately pursuing a path in **iOS development**ðŸ“±. I am currently exploring Swift and SwiftUI to build modern and intuitive applications for the Apple ecosystem.
 
 
-Langeages and Tools
+Languages and Tools
 
 
 Follow Me
